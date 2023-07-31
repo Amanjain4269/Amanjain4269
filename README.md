@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amanjain4269
 - 👀 I’m interested in WebDev, Cloud, and DevOps.
-- 🌱 I’m currently learning Python, WebDev and GCP Cloud.
+- 🌱 I’m currently learning DevOps tools and React.
 - 🧑‍🎓 I have learned and built projects in C, C++, DevOps, React and Django.
 - 💞️ I’m looking to collaborate on Java, Python, C, and C++ projects
 - 📫 Reach me through GitHub or mail me at amanjain4269@gmail.com
